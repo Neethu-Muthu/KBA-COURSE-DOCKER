@@ -34,7 +34,7 @@ This project is a web application designed to showcase various blockchain-relate
 
 First, clone the repository from GitHub:
 git clone [[repo-url](https://github.com/Neethu-Muthu/KBA-COURSE-DOCKER.git)]
-cd MERN-ITAM-APP
+cd Folder name
 
 ### Next, use Docker Compose to build and run the containers:
 
